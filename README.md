@@ -1,4 +1,4 @@
-[README_GitHub_Perfil (1).md](https://github.com/user-attachments/files/33714879/README_GitHub_Perfil.1.md)
+[Uploading README_GitHub_Perfil (2).md…]()
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:240046,55:5A189A,100:9D4EDD&height=180&section=header&text=SEU%20NOME&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42" width="100%" alt="Banner roxo de apresentação"/>
