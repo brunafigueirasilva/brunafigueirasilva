@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=220&section=header&text=Bruna%20Figueira%20Silva&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Desenvolvimento%20de%20Sistemas%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20IoT&descSize=15&descAlignY=58" alt="Banner roxo com o nome Bruna Figueira Silva"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=220&section=header&text=Bruna%20Figueira%20Silva&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=Desenvolvimento%20de%20Sistemas%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20IoT&descSize=15&descAlignY=58" alt="Banner roxo com o nome Bruna Figueira Silva"/>
 
 <a href="https://github.com/SEU-USUARIO">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=620&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o;Laravel+%2B+Flutter+%2B+MySQL;Acessibilidade+digital+(WCAG+2.2);Agricultura+4.0+e+IoT+com+ESP32;Jogos+3D+multiplayer+no+navegador" alt="Desenvolvedora em formação · Laravel, Flutter e MySQL · Acessibilidade digital · Agricultura 4.0 e IoT · Jogos 3D multiplayer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=620&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o;Laravel+%2B+Flutter+%2B+MySQL;Acessibilidade+digital+(WCAG+2.2);Agricultura+4.0+e+IoT+com+ESP32" alt="Desenvolvedora em formação · Laravel, Flutter e MySQL · Acessibilidade digital · Agricultura 4.0 e IoT"/>
 </a>
 
 <br/>
@@ -17,9 +17,11 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10002B,50:7B2CBF,100:10002B&height=3&section=header" alt=""/>
 
 ## 👩‍💻 Sobre mim
+
+<img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=9D4EDD&multiline=true&width=300&height=90&lines=%3E+npm+run+aprender;%3E+git+commit+-m+%22evoluindo%22;%3E+php+artisan+serve+%F0%9F%9A%80" alt="Terminal animado"/>
 
 Sou **Bruna Figueira Silva**, estudante de Desenvolvimento de Sistemas. Gosto de pegar um problema concreto e levar até uma aplicação que funciona de ponta a ponta: banco de dados, back-end, interface web, app mobile e, quando faz sentido, hardware.
 
@@ -27,10 +29,10 @@ Meu projeto principal é o **AgriFarm**, uma plataforma de gestão de ração pa
 
 ```js
 const bruna = {
-  foco:        ["Desenvolvimento web", "Mobile", "APIs", "Banco de dados"],
-  estudando:   ["Arquitetura com Laravel", "Flutter", "Three.js", "Socket.IO"],
-  interesses:  ["Acessibilidade digital", "IoT", "Agricultura 4.0", "Jogos web"],
-  buscando:    "Estágio ou primeira oportunidade na área de desenvolvimento",
+  foco:       ["Desenvolvimento web", "Mobile", "APIs", "Banco de dados"],
+  estudando:  ["Arquitetura com Laravel", "Flutter", "IoT com ESP32"],
+  interesses: ["Acessibilidade digital", "Agricultura 4.0", "Automação"],
+  buscando:   "Estágio ou primeira oportunidade na área de desenvolvimento",
 };
 ```
 
@@ -38,29 +40,30 @@ const bruna = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,dart,flutter,nodejs,threejs,arduino,git,github,vscode&theme=dark&perline=7" alt="Ícones: HTML, CSS, JavaScript, PHP, Laravel, MySQL, Dart, Flutter, Node.js, Three.js, Arduino, Git, GitHub, VS Code"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,dart,flutter,arduino,git,github,vscode&theme=dark&perline=6" alt="Ícones: HTML, CSS, JavaScript, PHP, Laravel, MySQL, Dart, Flutter, Arduino, Git, GitHub, VS Code"/>
 
 </div>
 
-| Área | Tecnologias | Onde usei |
-|:---|:---|:---|
-| **Back-end** | PHP 8+, Laravel 12, Eloquent, Blade | AgriFarm |
-| **Front-end** | HTML5, CSS3, JavaScript ES6+, Chart.js | AgriFarm, sites de clientes |
-| **Mobile** | Flutter, Dart | AgriFarm |
-| **Banco de dados** | MySQL | AgriFarm |
-| **Tempo real e 3D** | Node.js, Socket.IO, Three.js, cannon-es | City Racing Online |
-| **IoT** | ESP32, sensores | AgriFarm |
-| **Ferramentas** | Git, GitHub, VS Code | Todos os projetos |
+| Área | Tecnologias |
+|:---|:---|
+| **Back-end** | PHP 8+, Laravel 12, Eloquent, Blade |
+| **Front-end** | HTML5, CSS3, JavaScript ES6+, Chart.js |
+| **Mobile** | Flutter, Dart |
+| **Banco de dados** | MySQL |
+| **IoT** | ESP32, sensores |
+| **Ferramentas** | Git, GitHub, VS Code |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10002B,50:7B2CBF,100:10002B&height=3&section=header" alt=""/>
 
 ## 🌱 Projeto em destaque — AgriFarm
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:163A24,45:245C32,100:6AAA2E&height=125&section=header&text=AgriFarm&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Gest%C3%A3o%20inteligente%20de%20ra%C3%A7%C3%A3o%20em%20fazendas&descSize=13&descAlignY=68" alt="Banner verde do AgriFarm"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:163A24,45:245C32,100:6AAA2E&height=140&section=header&text=AgriFarm&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Gest%C3%A3o%20inteligente%20de%20ra%C3%A7%C3%A3o%20em%20fazendas&descSize=13&descAlignY=68" alt="Banner verde do AgriFarm"/>
 
 <img src="assets/agrifarm-logo.png" width="380" alt="Logo do AgriFarm"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=6AAA2E&center=true&vCenter=true&width=560&lines=Fazendas+%E2%80%A2+Lotes+%E2%80%A2+Cochos+%E2%80%A2+Estoque;Dashboard+com+dados+reais+por+fazenda;Acessibilidade+WCAG+2.2+AA%2FAAA;Pronto+para+sensores+IoT+com+ESP32" alt="Fazendas, lotes, cochos e estoque · Dashboard com dados reais · Acessibilidade WCAG 2.2 · Sensores IoT"/>
 
 ![Laravel](https://img.shields.io/badge/Laravel_12-245C32?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_8+-245C32?style=flat-square&logo=php&logoColor=white)
@@ -159,51 +162,7 @@ flowchart LR
 
 </div>
 
----
-
-## 🚀 Outros projetos
-
-<table>
-<tr>
-<td width="100%" valign="top" colspan="2">
-
-### 🏎️ City Racing Online &nbsp; ![Em desenvolvimento](https://img.shields.io/badge/em_desenvolvimento-5A189A?style=flat-square)
-
-Jogo de corrida 3D em terceira pessoa, multiplayer online, rodando no navegador, com cidade aberta e modos corrida livre, corrida de rua, contra o relógio, drift e corrida profissional. O foco é jogabilidade real: física de veículos, colisões e partidas sincronizadas entre jogadores.
-
-**Stack:** Three.js · cannon-es · Node.js · Socket.IO · front-end e back-end separados
-
-[Ver repositório](https://github.com/SEU-USUARIO/SEU-REPOSITORIO-CITY-RACING)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💅 Site Natalia Berretta
-
-Site para profissional de beleza, pensado para quem acessa pelo celular: apresentação dos serviços e caminho curto até o agendamento.
-
-**Stack:** HTML · CSS · JavaScript
-
-[Ver repositório](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ Studio Monica Monique
-
-Site para estúdio de estética, com apresentação dos procedimentos, organização de horários e foco no agendamento online.
-
-**Stack:** HTML · CSS · JavaScript
-
-[Ver repositório](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
-
-</td>
-</tr>
-</table>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10002B,50:7B2CBF,100:10002B&height=3&section=header" alt=""/>
 
 ## 📈 Estatísticas
 
@@ -214,9 +173,9 @@ Site para estúdio de estética, com apresentação dos procedimentos, organiza�
 
 <img width="80%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=midnight-purple&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=midnight-purple&hide_border=true&area=true&bg_color=00000000" alt="Gráfico de atividade de contribuições"/>
 
----
+</div>
 
 ## 🎯 Próximos passos
 
@@ -224,16 +183,13 @@ Site para estúdio de estética, com apresentação dos procedimentos, organiza�
 - [x] Dashboard integrado ao banco de dados
 - [ ] Integração do ESP32 com o nível dos cochos
 - [ ] Publicar a API documentada para o app Flutter
-- [ ] Multiplayer estável no City Racing Online
 - [ ] Testes automatizados (PHPUnit)
-
----
 
 <div align="center">
 
 ### 📬 Vamos conversar?
 
-Estou aberta a oportunidades de estágio, projetos colaborativos e trocas com quem também está aprendendo.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C77DFF&center=true&vCenter=true&width=520&lines=Aberta+a+oportunidades+de+est%C3%A1gio;Bora+trocar+ideias+sobre+tecnologia%3F" alt="Aberta a oportunidades de estágio · Bora trocar ideias sobre tecnologia?"/>
 
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
@@ -242,15 +198,15 @@ Estou aberta a oportunidades de estágio, projetos colaborativos e trocas com qu
 
 *Construindo, aprendendo e evoluindo, um projeto de cada vez.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=110&section=footer" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=120&section=footer&animation=twinkling" alt=""/>
 
 </div>
 
 <!--
 CHECKLIST ANTES DE PUBLICAR
-1. Substitua SEU-USUARIO, SEU-LINKEDIN, SEU-PORTFOLIO e SEU-EMAIL (use Ctrl+H no VS Code).
+1. Substitua SEU-USUARIO, SEU-LINKEDIN, SEU-PORTFOLIO e SEU-EMAIL (Ctrl+H no VS Code).
 2. Coloque a logo em assets/agrifarm-logo.png (o repositório do perfil precisa ter o mesmo nome do seu usuário).
-3. Atualize os links dos repositórios de cada projeto.
+3. Atualize o link do repositório do AgriFarm.
 4. Ajuste o checklist de "Próximos passos" conforme o andamento real.
 5. Se os cards de estatísticas ficarem fora do ar, faça deploy próprio do github-readme-stats na Vercel
    (instruções no repositório anuraghazra/github-readme-stats) e troque a URL base.
