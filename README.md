@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1400&color=9D4EDD&center=true&vCenter=true&width=560&lines=Desenvolvimento+de+Sistemas;Laravel+%E2%80%A2+Flutter+%E2%80%A2+MySQL;Acessibilidade+digital+segundo+a+WCAG+2.2" alt="Desenvolvimento de Sistemas · Laravel, Flutter e MySQL · Acessibilidade digital"/>
 
+<img src="https://img.shields.io/badge/Dispon%C3%ADvel_para_est%C3%A1gio-2EA043?style=for-the-badge&logo=handshake&logoColor=white" alt="Disponível para estágio"/>
+
+<br/>
+
 <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
@@ -17,6 +21,37 @@
 Sou **Bruna Figueira Silva**, estudante de Desenvolvimento de Sistemas. Trabalho com aplicações completas, do banco de dados à interface, com foco em back-end com Laravel, interfaces acessíveis e aplicativos mobile com Flutter.
 
 Atualmente desenvolvo o **AgriFarm**, meu Trabalho de Conclusão de Curso, e busco uma oportunidade de estágio na área de desenvolvimento.
+
+## Em busca de estágio
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**O que procuro**
+- Estágio em desenvolvimento de software.
+- Atuação em back-end, front-end, full stack ou mobile.
+- Um time onde eu possa aprender com revisões de código e boas práticas.
+
+</td>
+<td width="50%" valign="top">
+
+**O que já pratiquei**
+- Modelagem de banco de dados relacional em MySQL.
+- CRUDs e regras de negócio com Laravel e Eloquent.
+- Dashboards com dados reais e gráficos em Chart.js.
+- Interfaces acessíveis seguindo a WCAG 2.2.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/Falar_sobre_uma_vaga-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Falar sobre uma vaga pelo LinkedIn"/></a>
+<a href="mailto:SEU-EMAIL?subject=Oportunidade%20de%20est%C3%A1gio"><img src="https://img.shields.io/badge/Enviar_e--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail sobre estágio"/></a>
+
+</div>
 
 ## Tecnologias
 
@@ -43,9 +78,9 @@ Atualmente desenvolvo o **AgriFarm**, meu Trabalho de Conclusão de Curso, e bus
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:163A24,45:245C32,100:6AAA2E&height=120&section=header&text=AgriFarm&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Gest%C3%A3o%20inteligente%20de%20ra%C3%A7%C3%A3o%20em%20fazendas&descSize=13&descAlignY=70" alt="AgriFarm — Gestão inteligente de ração em fazendas"/>
 
 <p>
-  <img src="assets/agrifarm-logo.png" height="150" alt="Logo do AgriFarm"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" height="130" alt="Vaca animada"/>
+  <img src="assets/agrifarm-logo.png" height="70" alt="Logo do AgriFarm"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" height="60" alt="Vaca animada"/>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=6AAA2E&center=true&vCenter=true&width=520&lines=Fazendas%2C+lotes%2C+cochos+e+estoque+em+um+s%C3%B3+lugar;Dashboard+com+dados+reais+de+cada+fazenda;Acessibilidade+digital+WCAG+2.2" alt="Fazendas, lotes, cochos e estoque · Dashboard com dados reais · Acessibilidade WCAG 2.2"/>
@@ -90,15 +125,59 @@ Componente único, presente em todas as telas:
 
 ```mermaid
 flowchart LR
-    W["Aplicação Web<br/>Blade + JavaScript"] --> L["Laravel 12<br/>Controllers + Eloquent"]
-    M["Aplicativo<br/>Flutter"] --> L
-    L <--> DB[("MySQL")]
+    subgraph C["Camada de apresentação"]
+        direction TB
+        W["Aplicação Web<br/>Blade + JavaScript ES6+"]
+        G["Gráficos<br/>Chart.js"]
+        AC["Painel de acessibilidade<br/>temas • fonte • zoom • voz • VLibras"]
+        M["Aplicativo mobile<br/>Flutter"]
+    end
+
+    subgraph B["Back-end — Laravel 12"]
+        direction TB
+        R["Rotas nomeadas"]
+        AU["Autenticação<br/>por sessão"]
+        subgraph CT["Controllers"]
+            direction TB
+            DC["DashboardController<br/>indicadores e cálculos"]
+            CR["CRUD<br/>Fazenda • Lote • Cocho • Ração<br/>Estoque • Plano • Relatório"]
+            AP["AcessibilidadeController<br/>preferências do usuário"]
+        end
+        MO["Models Eloquent<br/>e relacionamentos"]
+    end
+
+    subgraph D["Dados — MySQL"]
+        direction TB
+        T1[("cadastros • fazendas<br/>lotes • animals")]
+        T2[("cochos • racaos<br/>estoques • planos • relatorios")]
+        T3[("acessibilidade_preferencias")]
+    end
+
+    W --> R
+    G --> W
+    AC --> W
+    M --> R
+    R --> AU --> CT
+    DC --> MO
+    CR --> MO
+    AP --> MO
+    MO <--> T1
+    MO <--> T2
+    MO <--> T3
 
     classDef roxo fill:#5A189A,color:#fff,stroke:#C77DFF
     classDef verde fill:#245C32,color:#fff,stroke:#6AAA2E
-    class W,M roxo
-    class L,DB verde
+    classDef escuro fill:#163A24,color:#fff,stroke:#6AAA2E
+    class W,G,AC,M roxo
+    class R,AU,DC,CR,AP,MO verde
+    class T1,T2,T3 escuro
+    style C fill:transparent,stroke:#7B2CBF,color:#C77DFF
+    style B fill:transparent,stroke:#6AAA2E,color:#6AAA2E
+    style CT fill:transparent,stroke:#245C32,color:#6AAA2E
+    style D fill:transparent,stroke:#6AAA2E,color:#6AAA2E
 ```
+
+**Fluxo de uma requisição:** o usuário acessa a aplicação web ou o app; a rota passa pela verificação de sessão e chega ao controller; o controller consulta os Models Eloquent, faz os cálculos e devolve os dados prontos para a tela. As preferências de acessibilidade seguem o mesmo caminho e ficam salvas no banco para cada usuário.
 
 <div align="center">
 
@@ -112,7 +191,7 @@ flowchart LR
 
 ## Contato
 
-Aberta a oportunidades de estágio e a projetos colaborativos.
+Procurando minha primeira oportunidade de estágio. Se você tem uma vaga ou quer conhecer melhor o AgriFarm, me chame.
 
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
