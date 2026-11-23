@@ -8,9 +8,10 @@
 
 <br/>
 
-<a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://brunafigueirasilva.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Online"/></a>
+<a href="https://github.com/BrunaFigueiraSilva"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+<a href="mailto:brunafsilva.09@icloud.com"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 
 </div>
 
@@ -48,8 +49,9 @@ Atualmente desenvolvo o **AgriFarm**, meu Trabalho de Conclusão de Curso, e bus
 
 <div align="center">
 
+<a href="https://brunafigueirasilva.github.io/portfolio/"><img src="https://img.shields.io/badge/Acessar_Portf%C3%B3lio-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Portfólio Online"/></a>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/Falar_sobre_uma_vaga-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Falar sobre uma vaga pelo LinkedIn"/></a>
-<a href="mailto:SEU-EMAIL?subject=Oportunidade%20de%20est%C3%A1gio"><img src="https://img.shields.io/badge/Enviar_e--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail sobre estágio"/></a>
+<a href="mailto:brunafsilva.09@icloud.com?subject=Oportunidade%20de%20est%C3%A1gio"><img src="https://img.shields.io/badge/Enviar_e--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail sobre estágio"/></a>
 
 </div>
 
@@ -68,6 +70,26 @@ Atualmente desenvolvo o **AgriFarm**, meu Trabalho de Conclusão de Curso, e bus
 | Mobile | Flutter, Dart |
 | Banco de dados | MySQL |
 | Versionamento | Git, GitHub |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10002B,50:7B2CBF,100:10002B&height=2&section=header" alt=""/>
+
+## Portfólio Web
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**Portfólio Pessoal & Simulação Interativa**  
+Página desenvolvida em **HTML5, CSS3 e JavaScript** para apresentar minha trajetória, minha stack técnica e o estudo de caso detalhado do **AgriFarm** — incluindo uma simulação ao vivo da balança de ração integrada ao sensor de distância do animal e gráfico dinâmico.
+
+<br/>
+
+<a href="https://brunafigueirasilva.github.io/portfolio/"><img src="https://img.shields.io/badge/Acessar_site_ao_vivo-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Portfólio ao vivo"/></a>
+<a href="https://github.com/BrunaFigueiraSilva/portfolio"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-240046?style=for-the-badge&logo=github&logoColor=white" alt="Ver código do Portfólio"/></a>
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10002B,50:7B2CBF,100:10002B&height=2&section=header" alt=""/>
 
@@ -181,7 +203,7 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://github.com/SEU-USUARIO/SEU-REPOSITORIO-AGRIFARM"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-245C32?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do AgriFarm"/></a>
+<a href="https://github.com/BrunaFigueiraSilva/SEU-REPOSITORIO-AGRIFARM"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-245C32?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do AgriFarm"/></a>
 
 </div>
 
@@ -193,8 +215,9 @@ flowchart LR
 
 Procurando minha primeira oportunidade de estágio. Se você tem uma vaga ou quer conhecer melhor o AgriFarm, me chame.
 
+<a href="https://brunafigueirasilva.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Online"/></a>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+<a href="mailto:brunafsilva.09@icloud.com"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=110&section=footer&animation=twinkling" alt=""/>
 
