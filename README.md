@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1400&color=9D4EDD&center=true&vCenter=true&width=560&lines=Desenvolvimento+de+Sistemas;Laravel+%E2%80%A2+Flutter+%E2%80%A2+MySQL;Acessibilidade+digital+segundo+a+WCAG+2.2" alt="Desenvolvimento de Sistemas · Laravel, Flutter e MySQL · Acessibilidade digital"/>
 
-<img src="https://img.shields.io/badge/Dispon%C3%ADvel_para_est%C3%A1gio-2EA043?style=for-the-badge&logo=handshake&logoColor=white" alt="Disponível para estágio"/>
-
-<br/>
 
 <a href="https://brunafigueirasilva.github.io/portifolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Online"/></a>
 <a href="https://github.com/BrunaFigueiraSilva"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
