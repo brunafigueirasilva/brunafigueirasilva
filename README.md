@@ -1,341 +1,223 @@
 
 <div align="center">
 
-# Bruna Figueira Silva
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=200&section=header&text=Bruna%20Figueira%20Silva&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Desenvolvedora%20em%20forma%C3%A7%C3%A3o%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile&descSize=15&descAlignY=58" alt="Bruna Figueira Silva — Desenvolvedora em formação"/>
 
-### Desenvolvedora de Sistemas em formação
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1400&color=9D4EDD&center=true&vCenter=true&width=560&lines=Desenvolvimento+de+Sistemas;Laravel+%E2%80%A2+Flutter+%E2%80%A2+MySQL;Acessibilidade+digital+segundo+a+WCAG+2.2" alt="Desenvolvimento de Sistemas · Laravel, Flutter e MySQL · Acessibilidade digital"/>
 
-Desenvolvimento Web · Back-end · Mobile
 
-<br>
-
-<a href="https://brunafigueirasilva.github.io/portifolio">
-  <img src="https://img.shields.io/badge/PORTF%C3%93LIO-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://github.com/BrunaFigueiraSilva">
-  <img src="https://img.shields.io/badge/GITHUB-240046?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/bruna-figueira-silva-a2b918451/">
-  <img src="https://img.shields.io/badge/LINKEDIN-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:brunafsilva.09@icloud.com">
-  <img src="https://img.shields.io/badge/CONTATO-C77DFF?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://brunafigueirasilva.github.io/portifolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Online"/></a>
+<a href="https://github.com/BrunaFigueiraSilva"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/bruna-figueira-silva-a2b918451/"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:brunafsilva.09@icloud.com"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10002B,50:7B2CBF,100:10002B&height=2&section=header" alt=""/>
 
 ## Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas**, com interesse em desenvolvimento de software, arquitetura de aplicações, banco de dados e tecnologia aplicada à resolução de problemas reais.
+Sou **Bruna Figueira Silva**, estudante de Desenvolvimento de Sistemas. Trabalho com aplicações completas, do banco de dados à interface, com foco em back-end com Laravel, interfaces acessíveis e aplicativos mobile com Flutter.
 
-Tenho experiência acadêmica e prática no desenvolvimento de aplicações web e mobile, trabalhando desde a modelagem de dados e implementação de regras de negócio até a construção de interfaces e integração entre sistemas.
+Atualmente desenvolvo o **AgriFarm**, meu Trabalho de Conclusão de Curso, e busco uma oportunidade de estágio na área de desenvolvimento.
 
-Atualmente, desenvolvo o **AgriFarm**, uma plataforma de gerenciamento inteligente de ração em fazendas, como projeto de conclusão de curso.
-
-Busco minha primeira oportunidade profissional na área de tecnologia, especialmente em desenvolvimento de software, onde possa contribuir com meus conhecimentos, evoluir tecnicamente e aprender com uma equipe.
-
----
-
-## Tecnologias e ferramentas
-
-<div align="center">
-
-### Desenvolvimento Web
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" />
-
-### Banco de dados
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-### Desenvolvimento Mobile
-
-<img src="https://skillicons.dev/icons?i=dart,flutter" />
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
+## Em busca de estágio
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Back-end
-
-- PHP 8+
-- Laravel 12
-- Eloquent ORM
-- Controllers e rotas
-- APIs REST
-- Autenticação
-- Regras de negócio
+**O que procuro**
+- Estágio em desenvolvimento de software.
+- Atuação em back-end, front-end, full stack ou mobile.
+- Um time onde eu possa aprender com revisões de código e boas práticas.
 
 </td>
 <td width="50%" valign="top">
 
-### Front-end
-
-- HTML5
-- CSS3
-- JavaScript ES6+
-- Blade
-- Interfaces responsivas
-- Chart.js
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Banco de dados
-
-- MySQL
-- Modelagem relacional
-- SQL
-- Relacionamentos
-- Integridade dos dados
-
-</td>
-<td width="50%" valign="top">
-
-### Mobile e ferramentas
-
-- Flutter
-- Dart
-- Git
-- GitHub
-- Visual Studio Code
+**O que já pratiquei**
+- Modelagem de banco de dados relacional em MySQL.
+- CRUDs e regras de negócio com Laravel e Eloquent.
+- Dashboards com dados reais e gráficos em Chart.js.
+- Interfaces acessíveis seguindo a WCAG 2.2.
 
 </td>
 </tr>
 </table>
 
----
-
-## Projetos
-
-### AgriFarm — Gestão Inteligente de Ração em Fazendas
-
 <div align="center">
 
-<img src="assets/agrifarm-logo.png" width="130" alt="Logo AgriFarm"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Laravel_12-245C32?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP_8-245C32?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-245C32?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-245C32?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-245C32?style=flat-square&logoColor=white"/>
+<a href="https://brunafigueirasilva.github.io/portifolio/"><img src="https://img.shields.io/badge/Acessar_Portf%C3%B3lio-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Portfólio Online"/></a>
+<a href="https://www.linkedin.com/in/bruna-figueira-silva-a2b918451/"><img src="https://img.shields.io/badge/Falar_sobre_uma_vaga-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Falar sobre uma vaga pelo LinkedIn"/></a>
+<a href="mailto:brunafsilva.09@icloud.com?subject=Oportunidade%20de%20est%C3%A1gio"><img src="https://img.shields.io/badge/Enviar_e--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail sobre estágio"/></a>
 
 </div>
 
-O **AgriFarm** é uma plataforma desenvolvida para centralizar e otimizar o gerenciamento de ração em propriedades rurais, integrando informações sobre fazendas, lotes, cochos, consumo e estoque.
+## Tecnologias
 
-O projeto busca transformar dados operacionais em informações úteis para auxiliar produtores na tomada de decisões, reduzir desperdícios e melhorar o controle alimentar.
+<div align="center">
 
-#### Funcionalidades
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,dart,flutter,git,github,vscode&theme=dark&perline=11" alt="HTML, CSS, JavaScript, PHP, Laravel, MySQL, Dart, Flutter, Git, GitHub e VS Code"/>
 
-- Dashboard com indicadores específicos por fazenda.
-- Gerenciamento de fazendas e lotes.
-- Controle de cochos e consumo de ração.
-- Gerenciamento de rações e estoque.
-- Planos alimentares.
-- Relatórios de desempenho.
-- Gráficos de consumo e indicadores.
-- Integração com sensores IoT.
-- Aplicação mobile com Flutter.
-- Recursos de acessibilidade digital.
+</div>
 
-#### Diferenciais técnicos
+| Área | Tecnologias |
+|:---|:---|
+| Back-end | PHP 8+, Laravel 12, Eloquent, Blade |
+| Front-end | HTML5, CSS3, JavaScript ES6+, Chart.js |
+| Mobile | Flutter, Dart |
+| Banco de dados | MySQL |
+| Versionamento | Git, GitHub |
 
-| Área | Implementação |
-|---|---|
-| Arquitetura | MVC |
-| Back-end | Laravel 12 |
-| Persistência | MySQL |
-| ORM | Eloquent |
-| Interface web | Blade, HTML, CSS e JavaScript |
-| Visualização de dados | Chart.js |
-| Mobile | Flutter e Dart |
-| IoT | ESP32 e sensores |
-| Acessibilidade | WCAG, contraste, zoom e leitura em voz alta |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10002B,50:7B2CBF,100:10002B&height=2&section=header" alt=""/>
 
-#### Arquitetura do sistema
+## Portfólio Web
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**Portfólio Pessoal & Simulação Interativa**  
+Página desenvolvida em **HTML5, CSS3 e JavaScript** para apresentar minha trajetória, minha stack técnica e o estudo de caso detalhado do **AgriFarm** — incluindo uma simulação ao vivo da balança de ração integrada ao sensor de distância do animal e gráfico dinâmico.
+
+<br/>
+
+<a href="https://brunafigueirasilva.github.io/portifolio/"><img src="https://img.shields.io/badge/Acessar_site_ao_vivo-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Portfólio ao vivo"/></a>
+<a href="https://github.com/BrunaFigueiraSilva/portifolio"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-240046?style=for-the-badge&logo=github&logoColor=white" alt="Ver código do Portfólio"/></a>
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10002B,50:7B2CBF,100:10002B&height=2&section=header" alt=""/>
+
+## Projeto em destaque
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:163A24,45:245C32,100:6AAA2E&height=120&section=header&text=AgriFarm&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Gest%C3%A3o%20inteligente%20de%20ra%C3%A7%C3%A3o%20em%20fazendas&descSize=13&descAlignY=70" alt="AgriFarm — Gestão inteligente de ração em fazendas"/>
+
+<p>
+  <img src="assets/agrifarm-logo.png" height="70" alt="Logo do AgriFarm"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow.png" height="60" alt="Vaca animada"/>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=6AAA2E&center=true&vCenter=true&width=520&lines=Fazendas%2C+lotes%2C+cochos+e+estoque+em+um+s%C3%B3+lugar;Dashboard+com+dados+reais+de+cada+fazenda;Acessibilidade+digital+WCAG+2.2" alt="Fazendas, lotes, cochos e estoque · Dashboard com dados reais · Acessibilidade WCAG 2.2"/>
+
+![Laravel](https://img.shields.io/badge/Laravel_12-245C32?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8+-245C32?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-245C32?style=flat-square&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-245C32?style=flat-square&logo=flutter&logoColor=white)
+![WCAG](https://img.shields.io/badge/WCAG_2.2-AA%2FAAA-6AAA2E?style=flat-square)
+
+</div>
+
+O **AgriFarm** é uma plataforma de gestão de ração para fazendas. Ela reúne em um único sistema as informações que costumam ficar espalhadas na rotina da propriedade: lotes, animais, rações, cochos, estoque e planos alimentares. Com os dados centralizados, fica mais fácil identificar desperdícios e planejar a reposição.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Dashboard por fazenda**
+Cards e gráficos que exibem os dados reais da fazenda selecionada: novos lotes na semana, variação de consumo, custo estimado de ração e situação do estoque. Os cálculos são feitos no back-end.
+
+**Gestão completa**
+Cadastro, consulta, edição e exclusão de fazendas, lotes, cochos, rações, estoques, planos alimentares e relatórios, com 9 Models Eloquent relacionados.
+
+</td>
+<td width="50%" valign="top">
+
+**Acessibilidade digital**
+Componente único, presente em todas as telas:
+- temas claro, escuro e alto contraste (AAA);
+- ajuste de fonte e zoom;
+- leitura em voz alta;
+- integração com o VLibras;
+- atributos ARIA;
+- preferências salvas por usuário no banco de dados.
+
+</td>
+</tr>
+</table>
+
+### Arquitetura
 
 ```mermaid
-flowchart TD
-
-    U["Usuário"]
-
-    subgraph FRONT["Interfaces"]
-        WEB["Aplicação Web<br/>Blade • JavaScript"]
-        MOB["Aplicativo Mobile<br/>Flutter"]
+flowchart LR
+    subgraph C["Camada de apresentação"]
+        direction TB
+        W["Aplicação Web<br/>Blade + JavaScript ES6+"]
+        G["Gráficos<br/>Chart.js"]
+        AC["Painel de acessibilidade<br/>temas • fonte • zoom • voz • VLibras"]
+        M["Aplicativo mobile<br/>Flutter"]
     end
 
-    subgraph BACK["Back-end"]
-        API["Rotas e APIs"]
-        AUTH["Autenticação"]
-        CTRL["Controllers"]
-        ORM["Models • Eloquent"]
+    subgraph B["Back-end — Laravel 12"]
+        direction TB
+        R["Rotas nomeadas"]
+        AU["Autenticação<br/>por sessão"]
+        subgraph CT["Controllers"]
+            direction TB
+            DC["DashboardController<br/>indicadores e cálculos"]
+            CR["CRUD<br/>Fazenda • Lote • Cocho • Ração<br/>Estoque • Plano • Relatório"]
+            AP["AcessibilidadeController<br/>preferências do usuário"]
+        end
+        MO["Models Eloquent<br/>e relacionamentos"]
     end
 
-    subgraph DATA["Banco de Dados"]
-        DB[("MySQL")]
+    subgraph D["Dados — MySQL"]
+        direction TB
+        T1[("cadastros • fazendas<br/>lotes • animals")]
+        T2[("cochos • racaos<br/>estoques • planos • relatorios")]
+        T3[("acessibilidade_preferencias")]
     end
 
-    subgraph IOT["Integração IoT"]
-        ESP["ESP32"]
-        SENSOR["Sensores"]
-    end
+    W --> R
+    G --> W
+    AC --> W
+    M --> R
+    R --> AU --> CT
+    DC --> MO
+    CR --> MO
+    AP --> MO
+    MO <--> T1
+    MO <--> T2
+    MO <--> T3
 
-    U --> WEB
-    U --> MOB
-
-    WEB --> API
-    MOB --> API
-
-    API --> AUTH
-    AUTH --> CTRL
-    CTRL --> ORM
-    ORM <--> DB
-
-    SENSOR --> ESP
-    ESP --> API
-
-    class WEB,MOB front
-    class API,AUTH,CTRL,ORM backend
-    class DB database
-    class ESP,SENSOR iot
-
-    classDef front fill:#5A189A,color:#FFFFFF,stroke:#C77DFF
-    classDef backend fill:#240046,color:#FFFFFF,stroke:#9D4EDD
-    classDef database fill:#163A24,color:#FFFFFF,stroke:#6AAA2E
-    classDef iot fill:#245C32,color:#FFFFFF,stroke:#6AAA2E
+    classDef roxo fill:#5A189A,color:#fff,stroke:#C77DFF
+    classDef verde fill:#245C32,color:#fff,stroke:#6AAA2E
+    classDef escuro fill:#163A24,color:#fff,stroke:#6AAA2E
+    class W,G,AC,M roxo
+    class R,AU,DC,CR,AP,MO verde
+    class T1,T2,T3 escuro
+    style C fill:transparent,stroke:#7B2CBF,color:#C77DFF
+    style B fill:transparent,stroke:#6AAA2E,color:#6AAA2E
+    style CT fill:transparent,stroke:#245C32,color:#6AAA2E
+    style D fill:transparent,stroke:#6AAA2E,color:#6AAA2E
 ```
 
-#### Acessibilidade
-
-O sistema também possui recursos voltados à acessibilidade digital:
-
-- Modo claro e escuro.
-- Alto contraste.
-- Ajuste de tamanho de fonte.
-- Controle de zoom.
-- Leitura de conteúdo em voz alta.
-- Integração com VLibras.
-- Elementos semânticos e atributos ARIA.
-- Persistência das preferências do usuário.
+**Fluxo de uma requisição:** o usuário acessa a aplicação web ou o app; a rota passa pela verificação de sessão e chega ao controller; o controller consulta os Models Eloquent, faz os cálculos e devolve os dados prontos para a tela. As preferências de acessibilidade seguem o mesmo caminho e ficam salvas no banco para cada usuário.
 
 <div align="center">
 
-<a href="https://github.com/BrunaFigueiraSilva">
-<img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-245C32?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/BrunaFigueiraSilva?tab=repositories"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rios-245C32?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios no GitHub"/></a>
 
 </div>
 
----
-
-### Portfólio pessoal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:10002B,50:7B2CBF,100:10002B&height=2&section=header" alt=""/>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-7B2CBF?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-7B2CBF?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-7B2CBF?style=flat-square&logo=javascript&logoColor=white"/>
-
-</div>
-
-Desenvolvi meu portfólio pessoal para apresentar minha trajetória, habilidades técnicas, projetos e experiências de desenvolvimento.
-
-O site conta com uma apresentação interativa, animações, navegação entre seções e um estudo de caso detalhado do AgriFarm, incluindo uma simulação de sensores e visualização dinâmica de dados.
-
-<div align="center">
-
-<a href="https://brunafigueirasilva.github.io/portifolio/">
-<img src="https://img.shields.io/badge/VISUALIZAR_PORTF%C3%93LIO-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BrunaFigueiraSilva/portifolio">
-<img src="https://img.shields.io/badge/C%C3%93DIGO_FONTE-240046?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## GitHub
-
-<div align="center">
-
-### Estatísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=BrunaFigueiraSilva&show_icons=true&hide_border=true&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&bg_color=10002B&rank_icon=github" height="165" alt="Estatísticas do GitHub"/>
-
-### Linguagens mais utilizadas
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaFigueiraSilva&layout=compact&hide_border=true&title_color=C77DFF&text_color=E0AAFF&bg_color=10002B&langs_count=8" height="165" alt="Linguagens mais utilizadas"/>
-
-### Contribuições
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunaFigueiraSilva&hide_border=true&background=10002B&stroke=5A189A&ring=C77DFF&fire=9D4EDD&currStreakLabel=E0AAFF&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D4EDD" width="75%" alt="Sequência de contribuições"/>
-
-</div>
-
----
-
-## Objetivo profissional
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OPEN_TO_WORK-9D4EDD?style=for-the-badge&logoColor=white"/>
-
-</div>
-
-Busco uma oportunidade de **estágio em Desenvolvimento de Sistemas**, com interesse em:
-
-- Desenvolvimento Back-end.
-- Desenvolvimento Full Stack.
-- Desenvolvimento Web.
-- Desenvolvimento Mobile.
-- Banco de dados.
-- Engenharia de software.
-
-Tenho disposição para aprender, desenvolver novas habilidades, colaborar em equipe e participar de projetos que contribuam para meu crescimento profissional e para os resultados da empresa.
-
----
 
 ## Contato
 
-<div align="center">
+Procurando minha primeira oportunidade de estágio. Se você tem uma vaga ou quer conhecer melhor o AgriFarm, me chame.
 
-Vamos conversar sobre tecnologia, projetos ou oportunidades profissionais?
+<a href="https://brunafigueirasilva.github.io/portifolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Online"/></a>
+<a href="https://www.linkedin.com/in/bruna-figueira-silva-a2b918451/"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:brunafsilva.09@icloud.com"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 
-<br>
-
-<a href="mailto:brunafsilva.09@icloud.com">
-<img src="https://img.shields.io/badge/E--MAIL-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bruna-figueira-silva-a2b918451/">
-<img src="https://img.shields.io/badge/LINKEDIN-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://brunafigueirasilva.github.io/portifolio/">
-<img src="https://img.shields.io/badge/PORTF%C3%93LIO-C77DFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BrunaFigueiraSilva">
-<img src="https://img.shields.io/badge/GITHUB-240046?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:5A189A,100:C77DFF&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=110&section=footer&animation=twinkling" alt=""/>
 
 </div>
+refaça e deixe mais bonito, mais profissional, sem coisas repetitivas e graficos dividios
