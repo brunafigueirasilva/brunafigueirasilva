@@ -1,305 +1,257 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=220&section=header&text=Bruna%20Figueira%20Silva&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=DESENVOLVIMENTO%20DE%20SISTEMAS%20%7C%20WEB%20%7C%20MOBILE&descSize=14&descAlignY=58" alt="Bruna Figueira Silva"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=220&section=header&text=Bruna%20Figueira%20Silva&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Desenvolvimento%20de%20Sistemas%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20IoT&descSize=15&descAlignY=58" alt="Banner roxo com o nome Bruna Figueira Silva"/>
 
-### Desenvolvedora em formação
+<a href="https://github.com/SEU-USUARIO">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=620&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o;Laravel+%2B+Flutter+%2B+MySQL;Acessibilidade+digital+(WCAG+2.2);Agricultura+4.0+e+IoT+com+ESP32;Jogos+3D+multiplayer+no+navegador" alt="Desenvolvedora em formação · Laravel, Flutter e MySQL · Acessibilidade digital · Agricultura 4.0 e IoT · Jogos 3D multiplayer"/>
+</a>
 
-**Transformando ideias em soluções digitais.**
+<br/>
 
 <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="SEU-PORTFOLIO"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
 <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-C77DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=7B2CBF&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil"/>
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=7B2CBF&label=visitas" alt="Contador de visitas ao perfil"/>
 
 </div>
 
 ---
 
-## 01. Sobre mim
+## 👩‍💻 Sobre mim
 
-Olá! Sou **Bruna Figueira Silva**, estudante de Desenvolvimento de Sistemas, interessada em tecnologia, desenvolvimento de software e criação de soluções digitais.
+Sou **Bruna Figueira Silva**, estudante de Desenvolvimento de Sistemas. Gosto de pegar um problema concreto e levar até uma aplicação que funciona de ponta a ponta: banco de dados, back-end, interface web, app mobile e, quando faz sentido, hardware.
 
-Gosto de transformar ideias em aplicações funcionais, aprender novas ferramentas e desenvolver projetos que resolvam problemas reais. Tenho interesse em desenvolvimento web e mobile, APIs, bancos de dados e integração entre software e hardware.
+Meu projeto principal é o **AgriFarm**, uma plataforma de gestão de ração para fazendas, onde trabalhei desde a modelagem do banco até um sistema de acessibilidade completo seguindo a WCAG 2.2.
 
-- Desenvolvimento de aplicações web e mobile.
-- Integração entre aplicações, APIs e bancos de dados.
-- Aprendizado prático por meio de projetos.
-- Interesse em automação, inovação e Internet das Coisas.
-- Busca contínua por evolução técnica e profissional.
-
-## 02. Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,dart,flutter,mysql,git,github,vscode,arduino&theme=dark&perline=6" alt="Tecnologias e ferramentas"/>
-
-<br/><br/>
-
-| Categoria | Tecnologias |
-|:---:|:---|
-| Front-end | HTML5, CSS3 e JavaScript |
-| Back-end | PHP e Laravel |
-| Mobile | Flutter e Dart |
-| Banco de dados | MySQL |
-| Versionamento | Git e GitHub |
-| IoT e hardware | ESP32 e sensores, conforme o projeto |
-
-</div>
-
-## 03. Projeto em destaque — AgriFarm
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:163A24,45:245C32,100:6AAA2E&height=125&section=header&text=AgriFarm&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=GERENCIAMENTO%20INTELIGENTE%20DE%20RA%C3%87%C3%83O%20EM%20FAZENDAS&descSize=12&descAlignY=68" alt="AgriFarm — banner verde"/>
-
-<br/>
-
-<img src="assets/agrifarm-logo.png" width="460" alt="Logo oficial do AgriFarm"/>
-
-### Tecnologia, dados e automação para a gestão agropecuária
-
-</div>
-
-O **AgriFarm** é um projeto de gerenciamento inteligente de ração em fazendas, desenvolvido para centralizar informações da propriedade e facilitar o acompanhamento da alimentação animal.
-
-A proposta é integrar a gestão de fazendas, lotes, rações, cochos e estoque em uma solução que ajude a organizar os dados operacionais e apoie decisões mais eficientes na rotina agropecuária.
-
-### O problema
-
-O gerenciamento da alimentação animal exige acompanhar diferentes informações, como quantidade de animais, rações disponíveis, consumo, capacidade dos cochos e movimentações de estoque. Quando esses dados estão dispersos, o controle pode ficar mais trabalhoso e dificultar a identificação de desperdícios.
-
-### A solução
-
-O AgriFarm reúne essas informações em um sistema integrado, com aplicação web, aplicativo mobile, banco de dados e possibilidade de integração com dispositivos IoT.
-
-### Principais funcionalidades
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Gestão de fazendas e lotes
-
-- Organização das propriedades.
-- Cadastro e acompanhamento de lotes.
-- Controle da quantidade de animais.
-- Consulta das informações por fazenda.
-
-#### Gestão alimentar
-
-- Cadastro de rações.
-- Organização dos planos alimentares.
-- Associação de rações compatíveis aos lotes.
-- Consulta de dados relacionados à alimentação.
-
-#### Controle de cochos
-
-- Organização dos cochos.
-- Acompanhamento da capacidade e das quantidades.
-- Monitoramento de níveis, conforme os dados disponíveis.
-- Possibilidade de integração com sensores.
-
-</td>
-<td width="50%" valign="top">
-
-#### Controle de estoque
-
-- Consulta da disponibilidade de ração.
-- Registro de movimentações.
-- Acompanhamento das quantidades armazenadas.
-- Apoio ao planejamento de reposição.
-
-#### Relatórios e indicadores
-
-- Consulta de informações operacionais.
-- Acompanhamento dos dados da propriedade.
-- Visualização de informações por lote.
-- Apoio à análise e à tomada de decisões.
-
-#### Integração tecnológica
-
-- Aplicação web e API.
-- Aplicativo Flutter.
-- Persistência de dados em MySQL.
-- Integração com sensores IoT conforme os módulos implementados.
-
-</td>
-</tr>
-</table>
-
-### Tecnologias e arquitetura
-
-<table>
-<tr>
-<td width="45%" valign="top">
-
-#### Tecnologias utilizadas
-
-| Tecnologia | Função |
-|---|---|
-| Laravel / PHP | Aplicação web e regras de negócio |
-| API REST | Comunicação entre aplicações |
-| Flutter / Dart | Aplicativo mobile |
-| MySQL | Armazenamento dos dados |
-| ESP32 / IoT | Integração com hardware, conforme a implementação |
-
-#### Objetivos do projeto
-
-- Organizar as informações da fazenda.
-- Facilitar o acompanhamento do estoque e dos cochos.
-- Apoiar o controle alimentar dos lotes.
-- Explorar o monitoramento automatizado.
-- Contribuir para a redução de desperdícios.
-
-</td>
-<td width="55%" valign="top">
-
-#### Fluxograma da arquitetura
-
-```mermaid
-flowchart TD
-    A["Aplicação Web"] --> C["API Laravel"]
-    B["Aplicativo Flutter"] --> C
-    C --> D[("Banco MySQL")]
-    E["Sensores IoT"] -. "Integração" .-> C
-    D --> F["Dados e relatórios"]
-    F --> A
-    F --> B
-
-    style A fill:#5A189A,color:#fff,stroke:#C77DFF
-    style B fill:#5A189A,color:#fff,stroke:#C77DFF
-    style C fill:#245C32,color:#fff,stroke:#6AAA2E
-    style D fill:#163A24,color:#fff,stroke:#6AAA2E
-    style E fill:#163A24,color:#fff,stroke:#6AAA2E
-    style F fill:#245C32,color:#fff,stroke:#6AAA2E
+```js
+const bruna = {
+  foco:        ["Desenvolvimento web", "Mobile", "APIs", "Banco de dados"],
+  estudando:   ["Arquitetura com Laravel", "Flutter", "Three.js", "Socket.IO"],
+  interesses:  ["Acessibilidade digital", "IoT", "Agricultura 4.0", "Jogos web"],
+  buscando:    "Estágio ou primeira oportunidade na área de desenvolvimento",
+};
 ```
 
-</td>
-</tr>
-</table>
+## 🧰 Tecnologias
 
 <div align="center">
 
-<a href="https://github.com/SEU-USUARIO/SEU-REPOSITORIO-AGRIFARM"><img src="https://img.shields.io/badge/Explorar%20reposit%C3%B3rio-245C32?style=for-the-badge&logo=github&logoColor=white" alt="Repositório AgriFarm"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,dart,flutter,nodejs,threejs,arduino,git,github,vscode&theme=dark&perline=7" alt="Ícones: HTML, CSS, JavaScript, PHP, Laravel, MySQL, Dart, Flutter, Node.js, Three.js, Arduino, Git, GitHub, VS Code"/>
 
 </div>
 
-## 04. Outros projetos
+| Área | Tecnologias | Onde usei |
+|:---|:---|:---|
+| **Back-end** | PHP 8+, Laravel 12, Eloquent, Blade | AgriFarm |
+| **Front-end** | HTML5, CSS3, JavaScript ES6+, Chart.js | AgriFarm, sites de clientes |
+| **Mobile** | Flutter, Dart | AgriFarm |
+| **Banco de dados** | MySQL | AgriFarm |
+| **Tempo real e 3D** | Node.js, Socket.IO, Three.js, cannon-es | City Racing Online |
+| **IoT** | ESP32, sensores | AgriFarm |
+| **Ferramentas** | Git, GitHub, VS Code | Todos os projetos |
+
+---
+
+## 🌱 Projeto em destaque — AgriFarm
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:163A24,45:245C32,100:6AAA2E&height=125&section=header&text=AgriFarm&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Gest%C3%A3o%20inteligente%20de%20ra%C3%A7%C3%A3o%20em%20fazendas&descSize=13&descAlignY=68" alt="Banner verde do AgriFarm"/>
+
+<img src="assets/agrifarm-logo.png" width="380" alt="Logo do AgriFarm"/>
+
+![Laravel](https://img.shields.io/badge/Laravel_12-245C32?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8+-245C32?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-245C32?style=flat-square&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-245C32?style=flat-square&logo=flutter&logoColor=white)
+![WCAG](https://img.shields.io/badge/WCAG_2.2-AA%2FAAA-6AAA2E?style=flat-square)
+![Status](https://img.shields.io/badge/status-TCC_em_desenvolvimento-163A24?style=flat-square)
+
+</div>
+
+**O problema.** Na rotina da fazenda, as informações sobre alimentação animal ficam espalhadas: quantos animais há em cada lote, qual ração eles recebem, quanto cabe em cada cocho e quanto resta em estoque. Sem esses dados juntos, é difícil perceber desperdício ou planejar a reposição a tempo.
+
+**A solução.** O AgriFarm centraliza fazendas, lotes, animais, rações, cochos, estoque, planos alimentares e relatórios em um único sistema, com dashboard por fazenda, app mobile e espaço para integração com sensores.
+
+### O que já está implementado
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Site Natalia Berretta
+**📊 Dashboard por fazenda**
+Ao selecionar uma propriedade, os cards e gráficos (Chart.js) mostram os dados reais dela, vindos do banco: lotes novos na semana, variação de consumo em relação ao dia anterior, custo estimado da ração e status do estoque. Todos os cálculos ficam no back-end.
 
-Projeto de site para profissional de beleza, com apresentação de serviços e foco na experiência de agendamento pelo celular.
-
-**Destaques**
-- Interface responsiva.
-- Apresentação de serviços.
-- Navegação simplificada.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
-[Ver repositório](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
+**🗂️ Gestão completa (CRUD)**
+Fazendas, lotes, cochos, rações, estoques, planos alimentares e relatórios, com 9 Models Eloquent relacionados entre si e rotas nomeadas.
 
 </td>
 <td width="50%" valign="top">
 
-### Studio Monica Monique
-
-Projeto de site para serviços de estética, com apresentação profissional e foco no agendamento online.
-
-**Destaques**
-- Layout adaptado para dispositivos móveis.
-- Apresentação de procedimentos.
-- Organização de informações e horários.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
-[Ver repositório](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
+**♿ Acessibilidade digital (WCAG 2.2)**
+Um único componente reutilizado em todas as telas, com:
+- temas claro, escuro e alto contraste (nível AAA);
+- ajuste de tamanho de fonte e zoom;
+- leitura em voz alta com a Web Speech API;
+- integração com o VLibras (Libras);
+- ARIA completo (`role="dialog"`, `aria-expanded`, `aria-live`);
+- preferências salvas no MySQL por usuário, sincronizadas entre dispositivos.
 
 </td>
 </tr>
 </table>
 
-*Atualize os links e as descrições para refletir os projetos publicados e suas funcionalidades reais.*
+### Arquitetura
 
-## 05. Estatísticas do GitHub
+```mermaid
+flowchart LR
+    subgraph Clientes
+        W["🖥️ Web<br/>Blade + JS"]
+        M["📱 App<br/>Flutter"]
+    end
+    subgraph Servidor
+        L["⚙️ Laravel 12<br/>Controllers + Eloquent"]
+        A["♿ Módulo de<br/>acessibilidade"]
+    end
+    DB[("🗄️ MySQL")]
+    S["📡 ESP32<br/>sensores"]
 
-<div align="center">
+    W --> L
+    M --> L
+    L <--> DB
+    A <--> DB
+    W -.-> A
+    S -. "planejado" .-> L
 
-<a href="https://github.com/SEU-USUARIO">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
-</a>
+    classDef roxo fill:#5A189A,color:#fff,stroke:#C77DFF
+    classDef verde fill:#245C32,color:#fff,stroke:#6AAA2E
+    classDef escuro fill:#163A24,color:#fff,stroke:#6AAA2E
+    class W,M roxo
+    class L,A verde
+    class DB,S escuro
+```
 
-<a href="https://github.com/SEU-USUARIO">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
-</a>
-
-<br/><br/>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=midnight-purple&hide_border=true" alt="Sequência de contribuições"/>
-
-</div>
-
-<sub>Os cards dependem de serviços externos e podem ficar temporariamente indisponíveis. As linguagens exibidas refletem o código detectado nos repositórios públicos.</sub>
-
-## 06. Objetivos profissionais
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### Aprender
-
-Aprofundar conhecimentos em desenvolvimento, arquitetura de sistemas e boas práticas de programação.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### Construir
-
-Desenvolver aplicações funcionais, acessíveis, organizadas e fáceis de utilizar.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### Evoluir
-
-Participar de projetos colaborativos, ampliar a experiência prática e crescer profissionalmente.
-
-</td>
-</tr>
-</table>
-
-## 07. Contato
-
-<div align="center">
-
-Estou aberta a conhecer projetos, trocar experiências e aprender com outras pessoas da área de tecnologia.
+<details>
+<summary><b>📁 Modelo de dados (clique para ver)</b></summary>
 
 <br/>
 
-<a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+| Tabela | Responsabilidade |
+|:---|:---|
+| `cadastros` | Usuários e autenticação |
+| `fazendas` | Propriedades de cada usuário |
+| `lotes` | Grupos de animais por fazenda |
+| `animals` | Animais vinculados aos lotes |
+| `cochos` | Capacidade e nível de cada cocho |
+| `racaos` | Tipos de ração |
+| `estoques` | Quantidades e movimentações |
+| `planos` | Planos alimentares e consumo |
+| `relatorios` | Relatórios gerados |
+| `acessibilidade_preferencias` | Preferências de acessibilidade por usuário |
+
+</details>
+
+<div align="center">
+
+<a href="https://github.com/SEU-USUARIO/SEU-REPOSITORIO-AGRIFARM"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-245C32?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do AgriFarm"/></a>
+
+</div>
+
+---
+
+## 🚀 Outros projetos
+
+<table>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+### 🏎️ City Racing Online &nbsp; ![Em desenvolvimento](https://img.shields.io/badge/em_desenvolvimento-5A189A?style=flat-square)
+
+Jogo de corrida 3D em terceira pessoa, multiplayer online, rodando no navegador, com cidade aberta e modos corrida livre, corrida de rua, contra o relógio, drift e corrida profissional. O foco é jogabilidade real: física de veículos, colisões e partidas sincronizadas entre jogadores.
+
+**Stack:** Three.js · cannon-es · Node.js · Socket.IO · front-end e back-end separados
+
+[Ver repositório](https://github.com/SEU-USUARIO/SEU-REPOSITORIO-CITY-RACING)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💅 Site Natalia Berretta
+
+Site para profissional de beleza, pensado para quem acessa pelo celular: apresentação dos serviços e caminho curto até o agendamento.
+
+**Stack:** HTML · CSS · JavaScript
+
+[Ver repositório](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Studio Monica Monique
+
+Site para estúdio de estética, com apresentação dos procedimentos, organização de horários e foco no agendamento online.
+
+**Stack:** HTML · CSS · JavaScript
+
+[Ver repositório](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&count_private=true" alt="Estatísticas gerais do GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=midnight-purple&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+
+</div>
+
+---
+
+## 🎯 Próximos passos
+
+- [x] Sistema de acessibilidade unificado no AgriFarm
+- [x] Dashboard integrado ao banco de dados
+- [ ] Integração do ESP32 com o nível dos cochos
+- [ ] Publicar a API documentada para o app Flutter
+- [ ] Multiplayer estável no City Racing Online
+- [ ] Testes automatizados (PHPUnit)
+
+---
+
+<div align="center">
+
+### 📬 Vamos conversar?
+
+Estou aberta a oportunidades de estágio, projetos colaborativos e trocas com quem também está aprendendo.
+
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 
-<br/><br/>
+<br/>
 
-**Construindo, aprendendo e evoluindo um projeto de cada vez.**
+*Construindo, aprendendo e evoluindo, um projeto de cada vez.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=110&section=footer" alt="Rodapé roxo"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5A189A,100:C77DFF&height=110&section=footer" alt=""/>
 
 </div>
 
 <!--
-ANTES DE PUBLICAR:
-1. Substitua SEU-USUARIO pelo seu nome de usuário real em todos os links.
-2. Atualize SEU-LINKEDIN, SEU-PORTFOLIO e SEU-EMAIL.
-3. Coloque a logo original em assets/agrifarm-logo.png.
-4. Atualize os links dos repositórios do AgriFarm e dos outros projetos.
-5. Mantenha apenas as tecnologias e funcionalidades que correspondem à sua experiência e ao estado real dos projetos.
+CHECKLIST ANTES DE PUBLICAR
+1. Substitua SEU-USUARIO, SEU-LINKEDIN, SEU-PORTFOLIO e SEU-EMAIL (use Ctrl+H no VS Code).
+2. Coloque a logo em assets/agrifarm-logo.png (o repositório do perfil precisa ter o mesmo nome do seu usuário).
+3. Atualize os links dos repositórios de cada projeto.
+4. Ajuste o checklist de "Próximos passos" conforme o andamento real.
+5. Se os cards de estatísticas ficarem fora do ar, faça deploy próprio do github-readme-stats na Vercel
+   (instruções no repositório anuraghazra/github-readme-stats) e troque a URL base.
 -->
